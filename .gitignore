@@ -1,0 +1,30 @@
+# Build
+*.[ejw]ar
+*.class
+
+# Gradle
+!/gradle/wrapper/gradle-wrapper.jar
+.gradle
+build
+
+# Editor stuff
+.idea
+.classpath
+.project
+.vscode
+*.iml
+bin/
+out/
+
+# other stuff
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[tT]humbs.db
+*.sw[po]
+.directory
+*~
+hs_err*.log
